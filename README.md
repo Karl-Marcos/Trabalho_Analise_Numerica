@@ -1,4 +1,4 @@
-<h2 align="center"> REDES NEURAIS E ALGORITMOS GENÉTICOS </h2>
+<h2 align="center"> TRABALHO FINAL DE ANÁLISE NUMÉRICA </h2>
 <p align="justify"> a) Equação do calor:
   
 $$ u_t = ku_{xx} $$
