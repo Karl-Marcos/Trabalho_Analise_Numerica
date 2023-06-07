@@ -3,7 +3,7 @@
   
 $$ u_t = ku_{xx} $$
 
-sendo 0≤ x ≤ 1 e 0 ≤ t ≤ 1, em que κ=0.5 , u(x,0)=x(1-x)2 , u(0,t) = 0 e u(1,t)=0.1.
+sendo 0≤ x ≤ 1 e 0 ≤ t ≤ 1, em que κ=0.5 , u(x,0)=x(1-x)2 , u(0,t) = 0 e u(1,t)=0.
 
 b) Equação de advecção:
 
